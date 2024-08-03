@@ -3,8 +3,8 @@ Written in PHP, reads Volumio style playlists and uploads them to MPD.
 
   - [About](#about)
   - [Parameters](#parameters)
-  - [local.php](#local-php)
-  - [simple-mpd-php](#simple-mpd-php)
+  - [local.php](#localphp)
+  - [simple-mpd-php](#simple-mpdphp)
 
 
 ## About
